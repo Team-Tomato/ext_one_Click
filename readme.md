@@ -1,4 +1,4 @@
-This is a simple chrome extension created using html, css and json to access Anna University related websites easily.
+This is a simple chrome extension created using html, css and json to access CEG related websites easily.
 
 About the Extension:
 
